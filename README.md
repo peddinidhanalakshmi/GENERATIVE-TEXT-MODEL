@@ -117,3 +117,4 @@ Maintains context over long sentences
 Sounds natural and grammatically correct
 
 # output
+<img width="1186" height="719" alt="Image" src="https://github.com/user-attachments/assets/9501220b-cc78-49aa-bfec-60b725412a62" />
